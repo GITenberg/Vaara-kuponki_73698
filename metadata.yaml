@@ -1,0 +1,52 @@
+_repo: Vaara-kuponki_73698
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Järnefelt, Arvid
+    aliases:
+    - Kahila, Hilja
+    - Jarnefelt, Arvid
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '4252'
+    url: http://www.gutenberg.org/2009/agents/4252
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
+    - https://fi.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Tolstoj, Lev Nikolaevič
+    - Tolstoj, Lev Nikolaevic
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
+description: Translation of Фальшивый купон, Fal'shivyi kupon.
+gutenberg_issued: '2024-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73698'
+language: fi
+pgterms:marc905: 20160826014335tolstoy
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: Väärä kuponki
+url: http://www.gutenberg.org/ebooks/73698
