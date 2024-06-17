@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
     - https://fi.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
 description: Translation of Фальшивый купон, Fal'shivyi kupon.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73698#Vaara-kuponki
 gutenberg_issued: '2024-05-25'
 gutenberg_type: Text
 identifiers:
